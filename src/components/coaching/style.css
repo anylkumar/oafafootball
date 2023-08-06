@@ -1,0 +1,18 @@
+.centerdiv.col {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-right: 2px solid darkgrey;
+}
+
+.centerdiv2.col {
+  display: flex;
+  justify-content: center;
+  align-items: end;
+  border-left: 2px solid darkgrey;
+}
+
+.card {
+  border: none !important;
+  text-align: left;
+}
