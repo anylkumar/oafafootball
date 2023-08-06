@@ -1,16 +1,17 @@
 {
   "files": {
-    "main.css": "/oafafootball/static/css/main.073c9b0a.css",
-    "main.js": "/oafafootball/static/js/main.38f6429b.js",
+    "main.css": "/oafafootball/static/css/main.14c62f7e.css",
+    "main.js": "/oafafootball/static/js/main.446d9945.js",
     "static/js/787.98db29c6.chunk.js": "/oafafootball/static/js/787.98db29c6.chunk.js",
+    "static/media/oafalogo.png": "/oafafootball/static/media/oafalogo.d58129397b7f3247a3ad.png",
     "static/media/logo.svg": "/oafafootball/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/oafafootball/index.html",
-    "main.073c9b0a.css.map": "/oafafootball/static/css/main.073c9b0a.css.map",
-    "main.38f6429b.js.map": "/oafafootball/static/js/main.38f6429b.js.map",
+    "main.14c62f7e.css.map": "/oafafootball/static/css/main.14c62f7e.css.map",
+    "main.446d9945.js.map": "/oafafootball/static/js/main.446d9945.js.map",
     "787.98db29c6.chunk.js.map": "/oafafootball/static/js/787.98db29c6.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.38f6429b.js"
+    "static/css/main.14c62f7e.css",
+    "static/js/main.446d9945.js"
   ]
 }
