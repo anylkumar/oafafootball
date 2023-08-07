@@ -4,6 +4,9 @@ import Header from "./components/header";
 import Banner from "./components/banner";
 import Coaching from "./components/coaching";
 import Footer from "./components/footer";
+import Textcardbox from "./components/textcardbox";
+import Tabsection from "./components/tabsection";
+import Otherpage from "./components/otherpages";
 
 function App() {
   return (
@@ -11,7 +14,14 @@ function App() {
       <Header />
       <Banner />
       <Coaching />
-      {/* <Footer /> */}
+      <Banner />
+      <Textcardbox setOrder="one" />
+      <Textcardbox setOrder="two" />
+      <Textcardbox setOrder="one" />
+      <Textcardbox setOrder="two" />
+      <Tabsection />
+      <Otherpage />
+      <Footer />
     </div>
   );
 }
