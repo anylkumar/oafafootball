@@ -16,7 +16,9 @@ function Header() {
             height="auto"
             className="d-inline-block align-top"
           />
-          OAFA ACADEMY
+          <span id="brandName" className="brown">
+            OAFA
+          </span>
         </Navbar.Brand>
         <Navbar.Toggle aria-controls="menu-navbar-nav" />
         <Navbar.Collapse id="menu-navbar-nav">

@@ -1,0 +1,21 @@
+nav.bg-body-tertiary.navbar.navbar-expand-lg.navbar-light {
+  height: 20vh;
+}
+
+.ms-auto.navbar-nav a {
+  color: #765827;
+  font-weight: 600;
+}
+
+.ms-auto.navbar-nav a:hover {
+  color: #eac696;
+}
+
+.brown {
+  color: #65451f;
+}
+
+#brandName {
+  font-weight: bolder;
+  margin-left: 5px;
+}
