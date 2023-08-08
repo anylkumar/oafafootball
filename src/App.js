@@ -13,7 +13,7 @@ function App() {
   return (
     <div className="App">
       <Header />
-      <Firstbanner imageTitle="OUR ACADEMY" />
+      <Firstbanner imageTitle="Crafting Football Stars of Tomorrow" />
       <Coaching />
       <Banner />
       <Textcardbox setOrder="one" />
