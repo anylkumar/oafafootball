@@ -1,0 +1,16 @@
+/* Default font size */
+.custom-title {
+  text-align: center;
+  padding: 3rem;
+  font-size: 7rem !important;
+  font-weight: bolder; /* Default font size for larger screens */
+}
+
+/* Adjust font size for small screens */
+@media (max-width: 768px) {
+  .custom-title {
+    padding: 2rem;
+    font-size: 2rem !important; /* Font size for small screens (adjust as needed) */
+    font-weight: bolder;
+  }
+}

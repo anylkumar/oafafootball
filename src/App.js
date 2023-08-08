@@ -7,12 +7,13 @@ import Footer from "./components/footer";
 import Textcardbox from "./components/textcardbox";
 import Tabsection from "./components/tabsection";
 import Otherpage from "./components/otherpages";
+import Firstbanner from "./components/firstbanner";
 
 function App() {
   return (
     <div className="App">
       <Header />
-      <Banner />
+      <Firstbanner imageTitle="OUR ACADEMY" />
       <Coaching />
       <Banner />
       <Textcardbox setOrder="one" />
